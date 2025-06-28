@@ -18,9 +18,10 @@
 - Setup guides and code examples
 - Automatically generated structure diagram (`structure_diagram.png`)
 
-### 💬 Interactive Bot
-- CLI assistant: Search for functions/classes and get instant docs
-- Streamlit app: Upload your `.py` files and chat with the bot
+### 💬 Interactive Help
+- **CLI Bot**: Run `python main.py` to ask about code from terminal
+- **Streamlit UI**: Upload files and interact visually
+- Usage examples, best practice feedback, and troubleshooting info
 
 ### ✅ Best Practices
 - Heuristic-based analysis to detect missing docstrings or bad practices
@@ -50,7 +51,19 @@ streamlit run app.py
 - Upload your `.py` files from the sidebar
 - View auto-generated docs
 - Ask the bot questions about your codebase
-- Visualize the structure diagram and download it
+- Visualize and download the structure diagram
+
+---
+
+## 🖱️ CLI Bot
+
+```bash
+python main.py
+```
+
+- Type function or class names to get instant documentation
+- Type `exit` to close the CLI assistant
+- Logs are saved in `logs/conversation_log.txt` and `.json`
 
 ---
 
@@ -123,4 +136,4 @@ Pull requests are welcome! Feel free to open issues or suggest features.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [SK Shaid Hossain](https://github.com/SS-Hossain)
+Made with ❤️ by [Shaid Hossain](https://github.com/SS-Hossain)
