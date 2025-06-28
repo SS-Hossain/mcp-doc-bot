@@ -136,4 +136,4 @@ Pull requests are welcome! Feel free to open issues or suggest features.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Shaid Hossain](https://github.com/SS-Hossain)
+Made with ❤️ by [SK Shaid Hossain](https://github.com/SS-Hossain)
