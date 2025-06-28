@@ -1,0 +1,274 @@
+[
+  {
+    "query": "greet",
+    "response": {
+      "type": "function",
+      "name": "greet",
+      "file": "example_project\\sample.py"
+    }
+  },
+  {
+    "query": "calculator",
+    "response": {
+      "type": "class",
+      "name": "Calculator",
+      "file": "example_project\\sample.py"
+    }
+  },
+  {
+    "query": "health_check",
+    "response": {
+      "type": "function",
+      "name": "health_check",
+      "file": "example_project\\sample4.py"
+    }
+  },
+  {
+    "query": "fetch_user_data",
+    "response": {
+      "type": "function",
+      "name": "fetch_user_data",
+      "file": "example_project\\sample1.py"
+    }
+  },
+  {
+    "query": "User",
+    "response": {
+      "type": "class",
+      "name": "User",
+      "file": "example_project\\sample1.py"
+    }
+  },
+  {
+    "query": "EmailClient",
+    "response": {
+      "type": "class",
+      "name": "EmailClient",
+      "file": "example_project\\sample3.py"
+    }
+  },
+  {
+    "query": "send_email",
+    "response": {
+      "type": "function",
+      "name": "send_email",
+      "file": "example_project\\sample3.py"
+    }
+  },
+  {
+    "query": "greet",
+    "response": {
+      "type": "function",
+      "name": "greet",
+      "file": "uploaded_project\\sample.py"
+    }
+  },
+  {
+    "query": "add",
+    "response": {
+      "type": "function",
+      "name": "add",
+      "file": "uploaded_project\\sample.py"
+    }
+  },
+  {
+    "query": "add",
+    "response": {
+      "type": "function",
+      "name": "add",
+      "file": "uploaded_project\\sample.py"
+    }
+  },
+  {
+    "query": "add",
+    "response": {
+      "type": "function",
+      "name": "add",
+      "file": "uploaded_project\\sample.py"
+    }
+  },
+  {
+    "query": "add",
+    "response": {
+      "type": "function",
+      "name": "add",
+      "file": "uploaded_project\\sample.py"
+    }
+  },
+  {
+    "query": "add",
+    "response": {
+      "type": "function",
+      "name": "add",
+      "file": "example_project\\sample.py"
+    }
+  },
+  {
+    "query": "health_check",
+    "response": {
+      "type": "function",
+      "name": "health_check",
+      "file": "uploaded_project\\sample4.py"
+    }
+  },
+  {
+    "query": "health_check",
+    "response": {
+      "type": "function",
+      "name": "health_check",
+      "file": "uploaded_project\\sample4.py"
+    }
+  },
+  {
+    "query": "health_check",
+    "response": {
+      "type": "function",
+      "name": "health_check",
+      "file": "uploaded_project\\sample4.py"
+    }
+  },
+  {
+    "query": "add",
+    "response": {
+      "type": "function",
+      "name": "add",
+      "file": "example_project\\sample.py"
+    }
+  },
+  {
+    "query": "greet",
+    "response": {
+      "type": "function",
+      "name": "greet",
+      "file": "example_project\\sample.py"
+    }
+  },
+  {
+    "query": "calculator",
+    "response": {
+      "type": "class",
+      "name": "Calculator",
+      "file": "example_project\\sample.py"
+    }
+  },
+  {
+    "query": "health_check",
+    "response": {
+      "type": "function",
+      "name": "health_check",
+      "file": "example_project\\sample4.py"
+    }
+  },
+  {
+    "query": "User",
+    "response": {
+      "type": "class",
+      "name": "User",
+      "file": "example_project\\sample1.py"
+    }
+  },
+  {
+    "query": "fetch_user_data",
+    "response": {
+      "type": "function",
+      "name": "fetch_user_data",
+      "file": "example_project\\sample1.py"
+    }
+  },
+  {
+    "query": "display",
+    "response": {
+      "type": "function",
+      "name": "display",
+      "file": "example_project\\sample1.py"
+    }
+  },
+  {
+    "query": "__init__",
+    "response": {
+      "type": "function",
+      "name": "__init__",
+      "file": "example_project\\sample1.py"
+    }
+  },
+  {
+    "query": "__init__",
+    "response": {
+      "type": "function",
+      "name": "__init__",
+      "file": "example_project\\sample2.py"
+    }
+  },
+  {
+    "query": "__init__",
+    "response": {
+      "type": "function",
+      "name": "__init__",
+      "file": "example_project\\sample3.py"
+    }
+  },
+  {
+    "query": "calculate_discount",
+    "response": {
+      "type": "function",
+      "name": "calculate_discount",
+      "file": "example_project\\sample2.py"
+    }
+  },
+  {
+    "query": "Product",
+    "response": {
+      "type": "class",
+      "name": "Product",
+      "file": "example_project\\sample2.py"
+    }
+  },
+  {
+    "query": "is_available",
+    "response": {
+      "type": "function",
+      "name": "is_available",
+      "file": "example_project\\sample2.py"
+    }
+  },
+  {
+    "query": "connect",
+    "response": {
+      "type": "function",
+      "name": "connect",
+      "file": "example_project\\sample3.py"
+    }
+  },
+  {
+    "query": "send_email",
+    "response": {
+      "type": "function",
+      "name": "send_email",
+      "file": "example_project\\sample3.py"
+    }
+  },
+  {
+    "query": "EmailClient",
+    "response": {
+      "type": "class",
+      "name": "EmailClient",
+      "file": "example_project\\sample3.py"
+    }
+  },
+  {
+    "query": "EmailClient",
+    "response": {
+      "type": "class",
+      "name": "EmailClient",
+      "file": "uploaded_project\\sample3.py"
+    }
+  },
+  {
+    "query": "Product",
+    "response": {
+      "type": "class",
+      "name": "Product",
+      "file": "uploaded_project\\sample2.py"
+    }
+  }
+]
